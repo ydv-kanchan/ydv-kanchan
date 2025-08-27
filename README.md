@@ -3,9 +3,7 @@
 I'm a **developer and lifelong learner** exploring **Full Stack Development, AI/ML, Cloud Computing, and DevOps**.  
 I enjoy building projects, solving problems, and continuously expanding my skills.
 
-## 💻 Skills & Tech Stack
-
-<!-- Frontend -->
+<!-- ## 💻 Skills & Tech Stack
 **Frontend:**  
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24"/><sup>HTML</sup> &nbsp;
@@ -16,7 +14,6 @@ I enjoy building projects, solving problems, and continuously expanding my skill
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="24"/><sup>Tailwind</sup>
 </span>
 
-<!-- Backend -->
 **Backend:**  
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="24"/><sup>Node.js</sup> &nbsp;
@@ -25,7 +22,6 @@ I enjoy building projects, solving problems, and continuously expanding my skill
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="24"/><sup>C#</sup>
 </span>
 
-<!-- Databases -->
 **Databases:**  
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="24"/><sup>MySQL</sup> &nbsp;
@@ -33,7 +29,6 @@ I enjoy building projects, solving problems, and continuously expanding my skill
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="24"/><sup>MongoDB</sup>
 </span>
 
-<!-- Tools -->
 **Tools:**  
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="24"/><sup>Git</sup> &nbsp;
@@ -41,3 +36,4 @@ I enjoy building projects, solving problems, and continuously expanding my skill
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="24"/><sup>VS Code</sup> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="24"/><sup>Ubuntu</sup>
 </span>
+-->
